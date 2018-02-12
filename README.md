@@ -1,1 +1,2 @@
-# Spring-boot
+# SpringBoot
+Spring-boot hello world app
